@@ -1,0 +1,9 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ChatAggregator
+/ChatAggregator/bin/Debug/net5.0
+/ChatAggregator/obj
+/CHatAggregator.UnitTests/bin/Debug/net5.0
+/CHatAggregator.UnitTests/obj
